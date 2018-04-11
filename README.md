@@ -1,8 +1,4 @@
----
-python implement of naive binary seach tree and red-black tree
----
-
-#Getting Started
+##Getting Started
 
 ```shell
 #compare performence of naive binary seach tree and red-black tree
